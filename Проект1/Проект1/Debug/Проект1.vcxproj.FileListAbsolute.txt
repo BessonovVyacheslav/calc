@@ -1,0 +1,3 @@
+C:\Users\User\Documents\Visual studio 2012\Проект1\Проект1\Debug\Проект1.MyForm.resources
+C:\Users\User\Documents\Visual studio 2012\Проект1\Проект1\Debug\Проект1.vcxproj.GenerateResource.cache
+C:\Users\User\Documents\Visual studio 2012\Проект1\Проект1\Debug\Проект1.vcxprojAssemblyReference.cache

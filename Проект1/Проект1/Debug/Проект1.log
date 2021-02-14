@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\User\Documents\Visual studio 2012\Проект1\Проект1\MyForm.h(563,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Fact.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Fact.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Проект1.vcxproj -> C:\Users\User\Documents\Visual studio 2012\Проект1\Debug\Проект1.exe
